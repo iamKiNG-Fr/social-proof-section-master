@@ -181,6 +181,7 @@ p{
     }
 
     .maintxt{
+        width: 100%;
         padding-right: 0;
         margin-bottom: 40px;
         text-align: center;
@@ -218,6 +219,7 @@ p{
 
     .rating{
         margin-bottom: 45px;
+        width: 100%;
     }
 
     .rate p{
